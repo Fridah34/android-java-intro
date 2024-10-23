@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="Title">Android Application</string>
+    <string name="F_Digit">Enter your first number</string>
+    <string name="S_Digit">Enter your second number</string>
+    <string name="btadd">Add</string>
+    <string name="number">The sum is=</string>
+
+</resources>
